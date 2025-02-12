@@ -1,15 +1,15 @@
 <h1 align="center">Hi <img src="https://media0.giphy.com/media/w1OBpBd7kJqHrJnJ13/giphy.gif?cid=ecf05e47h725kwv0sspzozkw09vmylceczlowrmxd1pljclb&rid=giphy.gif&ct=s" width="30px" height="30px">, I'm Dipak Pawar</h1>
 <h3 align="center">Empowering digital transformations with Java and cutting-edge technologies! <img src="https://github.com/iamimmanuelraj/iamimmanuelraj/blob/master/Assets/Developer.gif" width="30px" height="30px"></h3>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Java+Spring+Boot+React+Node.js+SQL+MongoDB+Flutter+Next.js+Firebase;Software+Engineer+Full+Stack+Developer)](https://git.io/typing-svg)
+
 
 # ✨ About Me:
 - 🔬 Java Developer passionate about building scalable and efficient software solutions.<br>
 - 💬 Experienced in front-end, back-end, and full-stack development.<br>
 - 🕹️ Key Projects: Real-Time Chat App, Bus Ticket Booking System, AI Mock Interview Taker, and Uber Clone.<br>
-- 🌐 Always exploring new technologies like AI, Web3, and advanced frameworks.<br>
+- 🌐 Always exploring new technologies like AI and advanced frameworks.<br>
 - 🌟 Certifications in Java Development, Machine Learning, and Campus Ambassadorship.<br>
-- 😉 Fun fact: I enjoy mentoring peers and organizing hackathons like hackCOE.
+- 😉 Fun fact: I enjoy mentoring peers and organizing hackathons like Chakravyuh.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dipak-pawar) 
